@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8597" started-at="2017-04-26T09:16:47Z" finished-at="2017-04-26T09:16:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8597" started-at="2017-04-26T09:16:47Z" finished-at="2017-04-26T09:16:56Z">
+      <class name="swapi.yar.test.PlanetsTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:swapi.yar.test.PlanetsTest@7f9a81e8]" name="setup" is-config="true" duration-ms="946" started-at="2017-04-26T02:16:48Z" finished-at="2017-04-26T02:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getAllPlanetsTest()[pri:0, instance:swapi.yar.test.PlanetsTest@7f9a81e8]" name="getAllPlanetsTest" duration-ms="5396" started-at="2017-04-26T02:16:48Z" finished-at="2017-04-26T02:16:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllPlanetsTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:swapi.yar.test.PlanetsTest@7f9a81e8]" name="setup" is-config="true" duration-ms="4" started-at="2017-04-26T02:16:54Z" finished-at="2017-04-26T02:16:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="statusCodeTest()[pri:0, instance:swapi.yar.test.PlanetsTest@7f9a81e8]" name="statusCodeTest" duration-ms="473" started-at="2017-04-26T02:16:54Z" finished-at="2017-04-26T02:16:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusCodeTest -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:swapi.yar.test.PlanetsTest@7f9a81e8]" name="setup" is-config="true" duration-ms="2" started-at="2017-04-26T02:16:54Z" finished-at="2017-04-26T02:16:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyCountOfPlanets()[pri:0, instance:swapi.yar.test.PlanetsTest@7f9a81e8]" name="verifyCountOfPlanets" duration-ms="473" started-at="2017-04-26T02:16:54Z" finished-at="2017-04-26T02:16:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCountOfPlanets -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:swapi.yar.test.PlanetsTest@7f9a81e8]" name="setup" is-config="true" duration-ms="1" started-at="2017-04-26T02:16:55Z" finished-at="2017-04-26T02:16:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyNameOfPlanetById()[pri:0, instance:swapi.yar.test.PlanetsTest@7f9a81e8]" name="verifyNameOfPlanetById" duration-ms="370" started-at="2017-04-26T02:16:55Z" finished-at="2017-04-26T02:16:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNameOfPlanetById -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:swapi.yar.test.PlanetsTest@7f9a81e8]" name="setup" is-config="true" duration-ms="2" started-at="2017-04-26T02:16:55Z" finished-at="2017-04-26T02:16:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyNextPageURI()[pri:0, instance:swapi.yar.test.PlanetsTest@7f9a81e8]" name="verifyNextPageURI" duration-ms="426" started-at="2017-04-26T02:16:55Z" finished-at="2017-04-26T02:16:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNextPageURI -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:swapi.yar.test.PlanetsTest@7f9a81e8]" name="setup" is-config="true" duration-ms="2" started-at="2017-04-26T02:16:56Z" finished-at="2017-04-26T02:16:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyOnlyTenPlanetsReturned()[pri:0, instance:swapi.yar.test.PlanetsTest@7f9a81e8]" name="verifyOnlyTenPlanetsReturned" duration-ms="437" started-at="2017-04-26T02:16:56Z" finished-at="2017-04-26T02:16:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOnlyTenPlanetsReturned -->
+      </class> <!-- swapi.yar.test.PlanetsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
